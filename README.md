@@ -29,7 +29,7 @@ This project in the moment have 3 different files, each of them have some diferr
 	
 	Exemple of finder solving the maze:
 	
-	![finder Solving](https://i.imgur.com/uMfnHGC.jpg)
+	![Finder Solving](https://i.imgur.com/uMfnHGC.jpg)
 
   
 
