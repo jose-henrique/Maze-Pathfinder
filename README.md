@@ -27,9 +27,9 @@ This project in the moment have 3 different files, each of them have some diferr
 
     ***Second:*** This is not efficient, for bigger and bigger mazes he became more slow and with more chance of not solve the maze, as saied on the first point.
 	
-	Exemple of finder solving the maze:
+Exemple of finder solving the maze:
 	
-	![Finder Solving](https://i.imgur.com/uMfnHGC.jpg)
+![Finder Solving](https://i.imgur.com/uMfnHGC.jpg)
 
   
 
